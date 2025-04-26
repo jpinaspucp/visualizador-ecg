@@ -1,0 +1,15 @@
+# Directorios de datos
+data/
+
+# Entorno conda
+env/
+
+# Archivos de caché
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Archivos temporales
+.DS_Store
+.env

@@ -1,0 +1,16 @@
+name: ecg_app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - streamlit
+    - numpy
+    - pandas
+    - matplotlib
+    - wfdb
+    - neurokit2
+    - requests
+    - plotly
