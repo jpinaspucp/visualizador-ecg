@@ -173,7 +173,9 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Contacto
 
-TU_NOMBRE - [TU_EMAIL]
+Christian Amao Suxo
+Dennis Sandoval Huamán
+Jose Piñas Rivera -  jpinas@pucp.pe
 
 Enlace del proyecto: [https://github.com/TU_USUARIO/visualizador-ecg](https://github.com/TU_USUARIO/visualizador-ecg)
 >>>>>>> cb4a197 (Versión inicial del Visualizador ECG)
