@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# visualizador-ecg
-=======
+
 # Visualizador de ECG para Análisis de Arritmias
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
@@ -173,9 +171,9 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Contacto
 
-Christian Amao Suxo
-Dennis Sandoval Huamán
-Jose Piñas Rivera -  jpinas@pucp.pe
+## Christian Amao Suxo
+## Dennis Sandoval Huamán
+## Jose Piñas Rivera -  jpinas@pucp.pe
 
 Enlace del proyecto: [https://github.com/TU_USUARIO/visualizador-ecg](https://github.com/TU_USUARIO/visualizador-ecg)
->>>>>>> cb4a197 (Versión inicial del Visualizador ECG)
+
